@@ -1,0 +1,12 @@
+*{
+	font-family: "Montserrat", sans-serif;
+}
+
+.image-size {
+	width: 200px;
+	height: 300px;
+}
+
+html {
+	scroll-behavior: smooth;
+}
