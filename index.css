@@ -15,3 +15,10 @@
 html {
 	scroll-behavior: smooth;
 }
+.image-container {
+    transition: transform 0.3s; /* Add a smooth transition effect */
+}
+
+.image-container:hover {
+    transform: scale(1.2); /* Increase the scale on hover */
+}
