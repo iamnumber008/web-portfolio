@@ -22,3 +22,11 @@ html {
 .image-container:hover {
     transform: scale(1.2); /* Increase the scale on hover */
 }
+
+.navbar {
+  background-color: rgba(255, 255, 255, 0.8); /* Change the alpha (fourth) value to control the opacity */
+}
+
+.form-size {
+	width: 300px;
+}
